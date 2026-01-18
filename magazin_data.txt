@@ -1,0 +1,2 @@
+1|Paine|5.0|45|Alimente|5
+2|Pepsi|12.0|7|Bauturi|3
